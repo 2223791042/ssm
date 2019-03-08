@@ -10,7 +10,7 @@
 		</commentGenerator>
 		<!-- 配置数据库连接 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://localhost:3306/xuegong" userId="root"
+			connectionURL="jdbc:mysql://localhost:3306/ssm" userId="root"
 			password="123">
 		</jdbcConnection>
 
